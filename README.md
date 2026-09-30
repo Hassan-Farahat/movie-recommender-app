@@ -2,7 +2,7 @@
 
 An interactive Content-Based Movie Recommender built with Python, Streamlit, and Scikit-Learn.
 
-🚀 **[Live Demo](https://movie-recommender-app.streamlit.app/)**
+🚀 **[Live Demo]((https://hassan-farahat-movie-recommender-app-app-l4woz5.streamlit.app/)**
 
 ## ✨ Features
 
